@@ -13,7 +13,7 @@ namespace Ketwaroo\MediaTool\BatchTranscode\Config;
  *
  * @author Yaasir Ketwaroo<ketwaroo.yaasir@gmail.com>
  */
-class NewFile
+class NewFileConfig
 {
     //put your code here
 }
